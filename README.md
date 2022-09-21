@@ -38,3 +38,9 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
+
+
+**Contact**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/[www.linkedin.com/in/javohir-rustamov-6912bb234](https://www.linkedin.com/in/javohir-rustamov-6912bb234/))]([https://www.linkedin.com/in/davronbek-boltayev](https://www.linkedin.com/in/javohir-rustamov-6912bb234)/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
