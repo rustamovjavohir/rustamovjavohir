@@ -45,5 +45,4 @@ You can click the Preview link to take a look at your changes.
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
 
-https://github.com/rustamovjavohir/
-![Snake animation]([https://github.com/rustamovjavohir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
