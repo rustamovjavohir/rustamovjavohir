@@ -8,6 +8,8 @@
 rustamovjavohir/rustamovjavohir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rustamovjavohir&theme=tokyonight_duo&hide_border=true)](https://github.com/rustamovjavohir/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
