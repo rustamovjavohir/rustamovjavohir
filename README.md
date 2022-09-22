@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes.
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/[www.linkedin.com/in/javohir-rustamov-6912bb234](https://www.linkedin.com/in/javohir-rustamov-6912bb234/))]([https://www.linkedin.com/in/davronbek-boltayev](https://www.linkedin.com/in/javohir-rustamov-6912bb234)/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/javohir-rustamov-6912bb234/)](https://www.linkedin.com/in/javohir-rustamov-6912bb234/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
