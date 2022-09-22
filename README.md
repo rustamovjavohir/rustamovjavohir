@@ -46,4 +46,4 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
 
 https://github.com/rustamovjavohir/
-![Snake animation]([https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov](https://github.com/rustamovjavohir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/rustamovjavohir/blob/output/github-contribution-grid-snake.svg)
