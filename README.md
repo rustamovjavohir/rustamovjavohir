@@ -46,9 +46,7 @@ You can click the Preview link to take a look at your changes.
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/) 
-
-[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rustamovjavohir&theme=tokyonight_duo&hide_border=true)](https://github.com/rustamovjavohir/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
