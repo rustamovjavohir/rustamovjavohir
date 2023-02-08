@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rustamovjavohir&theme=tokyonight_duo&hide_border=true)](https://github.com/rustamovjavohir/)
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- https://github.com/rustamovjavohir/github-readme-streak-stats -->
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
