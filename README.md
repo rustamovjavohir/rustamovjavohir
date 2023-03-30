@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools**
 
