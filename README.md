@@ -61,3 +61,4 @@ You can click the Preview link to take a look at your changes.
 <!-- https://github.com/rustamovjavohir/github-readme-streak-stats -->
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rustamovjavohir/rustamovjavohir/blob/output/github-contribution-grid-snake.gif)
