@@ -60,5 +60,5 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rustamovjavohir&theme=tokyonight_duo&hide_border=true)](https://github.com/rustamovjavohir/)
 <!-- https://github.com/rustamovjavohir/github-readme-streak-stats -->
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg) -->
 ![snake gif](https://github.com/rustamovjavohir/rustamovjavohir/blob/output/github-contribution-grid-snake.gif)
