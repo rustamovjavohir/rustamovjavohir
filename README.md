@@ -9,7 +9,7 @@ rustamovjavohir/rustamovjavohir is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rustamovjavohir/rustamovjavohir/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Contact**
 
