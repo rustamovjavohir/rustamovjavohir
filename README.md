@@ -1,65 +1,141 @@
-- 👋 Hi, I’m @rustamovjavohir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-rustamovjavohir/rustamovjavohir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Javohir+Rustamov+%F0%9F%91%8B;Software+Engineer+%7C+Python+%26+Django;Building+reliable+business-critical+systems;CRM+%E2%80%A2+BNPL+%E2%80%A2+Fintech+%E2%80%A2+Integrations)
 
-**Contact**
+### Backend-focused Software Engineer from Uzbekistan 🇺🇿
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/javohir-rustamov-dev/)](https://www.linkedin.com/in/javohir-rustamov-dev/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/RustamovJX)](https://t.me/RustamovJX)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
+I design and build reliable backend systems for real-world business workflows —  
+from **CRM and BNPL platforms** to **payment, banking, logistics, GIS and government integrations**.
 
-**Back-end**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javohir_Rustamov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javohir-rustamov-dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-@RustamovJX-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RustamovJX)
+[![Email](https://img.shields.io/badge/Email-xackercoder@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xackercoder@gmail.com)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+</div>
 
-**Front-end**
+---
 
-![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## About me
 
-**Databases**
+```python
+javohir = {
+    "role": "Software Engineer",
+    "focus": ["Backend Engineering", "System Integration", "Scalable APIs"],
+    "domains": ["CRM", "BNPL", "Fintech", "Logistics", "GIS"],
+    "core_stack": ["Python", "Django", "DRF", "PostgreSQL", "Celery", "Redis"],
+    "open_source": ["fastpusher"],
+    "currently_exploring": ["System Design", "AI-assisted Engineering", "Computer Vision"],
+    "principle": "Turn complex business processes into clear, reliable software.",
+}
+```
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🔭 Building and evolving high-load CRM, BNPL and delivery platforms
+- 🔌 Experienced with payment providers, banks, 1C, government services and partner APIs
+- ⚙️ Working with background jobs, real-time events, notifications and location-based systems
+- 🧠 Currently exploring face recognition with InsightFace and AI-assisted development workflows
+- 🤝 Open to collaborating on impactful backend, fintech and open-source projects
 
-**Tools**
+## What I build
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+| Area | What I work on |
+|:--|:--|
+| **Backend platforms** | Modular Django applications, REST APIs, permissions and business workflows |
+| **Fintech & BNPL** | Payment schedules, debt collection, autopayments and provider integrations |
+| **CRM systems** | Customer lifecycle, operator workflows, reports and automation |
+| **Integration layer** | Banks, 1C, partner APIs, webhooks and government services |
+| **Logistics** | Courier tracking, order distribution, push notifications and route workflows |
+| **Data & infrastructure** | PostgreSQL, Redis, Celery, Docker, Linux and production deployments |
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+## Open source
 
+<a href="https://pypi.org/project/fastpusher/">
+  <img align="right" src="https://img.shields.io/pypi/v/fastpusher?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI" alt="fastpusher on PyPI" />
+</a>
 
+### [FastPusher](https://pypi.org/project/fastpusher/)
 
+A lightweight Python library for sending push notifications through a REST API. It provides a clean interface with automatic retries, typed errors, bulk messaging, connection health checks and reusable HTTP sessions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=rustamovjavohir&theme=github_dark&show_icons=true)](https://github.com/rustamovjavohir/)
+[![PyPI version](https://img.shields.io/pypi/v/fastpusher?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/fastpusher/)
+[![Python versions](https://img.shields.io/pypi/pyversions/fastpusher?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/fastpusher/)
+[![License](https://img.shields.io/pypi/l/fastpusher?style=flat-square)](https://pypi.org/project/fastpusher/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rustamovjavohir&theme=tokyonight_duo&hide_border=true)](https://github.com/rustamovjavohir/)
-<!-- https://github.com/rustamovjavohir/github-readme-streak-stats -->
+```bash
+pip install fastpusher
+```
 
-<!-- ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg) -->
-![snake gif](https://github.com/rustamovjavohir/rustamovjavohir/blob/output/github-contribution-grid-snake.gif)
+## Tech stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>More about my engineering experience</b></summary>
+<br>
+
+- Designing REST APIs and complex domain workflows with Django and DRF
+- Building asynchronous processing and scheduled jobs with Celery and Redis
+- Implementing webhook-driven, real-time and idempotent integrations
+- Optimizing PostgreSQL queries, data models and reporting workflows
+- Containerizing and deploying services on Linux with Docker and Nginx
+- Connecting mobile and web clients to reliable backend services
+- Translating business requirements into maintainable technical solutions
+
+</details>
+
+<details>
+<summary><b>Current learning roadmap</b></summary>
+<br>
+
+- Advanced system design and distributed systems
+- Observability, performance and production reliability
+- AI-assisted software engineering workflows
+- Computer vision and face recognition with InsightFace
+- Better technical communication in English and Russian
+
+</details>
+
+</div>
+
+Developer mode
+
+<div align="center">
+
+<img width="48%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer writing code" />
+
+<br><br>
+
+Think → Design → Build → Test → Improve → Repeat
+
+</div>
+
+<div align="center">
+
+Let’s build software that solves real problems.
+
+</div>
